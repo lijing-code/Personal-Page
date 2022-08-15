@@ -20,7 +20,7 @@ What I've learned:
 ## Installation
 
 * Log in GitHub Account
-* This GitHub URL is : https://github.com/lijing-code/Professional-Materials
+* This GitHub URL is : https://github.com/lijing-code/Personal-Page
 * The live URL is : https://lijing-code.github.io/Personal-Page/
 
 ## Usage
